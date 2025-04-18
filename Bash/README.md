@@ -18,7 +18,9 @@
 ### Edit ~/.profile 
 
 Add the following to the bottom of the file: 
+Replace the <USER> with your username.
+
 ```
 # Start OhMyPosh
-eval "$(oh-my-posh init bash --config '/mnt/c/Users/<USER>/Projects/Templates/Bash/atomic-modified.omp.json')"
+eval "$(oh-my-posh init bash --config '/c/Users/<USER>/Projects/Templates/Bash/atomic-modified.omp.json')"
 ```
