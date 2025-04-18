@@ -37,3 +37,7 @@ Edit the fontFamily setting in VsCode so it renders properly:
 ```
 "editor.fontFamily": "MesloLGMDZ Nerd Font Mono, Consolas, 'Courier New', monospace"
 ```
+
+## Update setting in Terminal
+
+Go into Windows Terminal --> Settings --> Appearance. Change the Font Face property to MesloLGMDZ Nerd Font Mono.
